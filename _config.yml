@@ -7,47 +7,48 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Harsh Trivedi
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: A Tech over Inspired by Imagination
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Harsh Trivedi, A Tech Lover, Inspired by Imagination, Techetarian, DezineWrath, Kanpur, Design, Harsh
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: https://i.imgur.com/wwVdJSk.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+email: harsh98trivedi@gmail.com
+facebook_username: harsh98trivedi
+twitter_username: harsh98trivedi
+instagram_username: harsh98trivedi
+linkedin_username: harsh98trivedi
+github_username:  harsh98trivedi
+youtube_channel_id: harsh98trivedi
+reddit_username: harshtrivedi
+behance_username: harsh98trivedi
+dribbble_username: harsh98trivedi
+spotify_username:
 
 # Google Analytics
-google-analytics: UA-163806439-1
+google-analytics: UA-70447982-3
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: harshtrivedi
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Harsh Trivedi
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: https://www.github.com/harsh98trivedi.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: Howdy, I'm Harsh Trivedi. I'm passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination. Creating random beats, Playing Guitar, Rapping and Editing Videos, Tweaking and Tinkering also fall inside my interest zone.
+
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://twitter.com/harsh98trivedi
 
 # SASS
 sass:
