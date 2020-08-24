@@ -5,4 +5,4 @@ Harsh Trivedi | A Tech Lover and a Designer Inspired by Imagination.
 ### You can also read the [**blog**](https://harsh98trivedi.github.io/blog)
 
 # How to contact me?
-### Simple! [**Click Here**](https://harsh98trivedi.github.io/#contact-section)
+### Simple! [**Click Here**](https://harsh98trivedi.github.io/#contact)

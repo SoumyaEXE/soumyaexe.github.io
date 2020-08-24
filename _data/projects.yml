@@ -26,3 +26,11 @@
   link: https://github.com/harsh98trivedi/C-Programs
   image: https://i.imgur.com/Wgm5mxY.jpg
   description: A Repository full of C-Programs. I created this repository in order to collect all of the C-Programs from my friends and family.
+- name: DC9111 - Website
+  link: https://github.com/dc-9111/website
+  image: https://raw.githubusercontent.com/dc-9111/website/master/images/meta.jpg
+  description: DEF CON Delhi | DC9111 is a group of techies, developers, designers, hackers and security researchers that is trying to spread core knowledge in the domain of cybersecurity and hacking that ranges from web application, hardware, embedded systems to RFID.
+- name: WhatATheme
+  link: https://github.com/thedevslot/WhatATheme
+  image: https://github.com/thedevslot/WhatATheme/raw/master/assets/images/meta.jpg
+  description: A customizable Jekyll Portfolio theme which supports blogging.
