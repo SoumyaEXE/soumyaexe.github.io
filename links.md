@@ -39,15 +39,20 @@ title: Links
     target="_blank">
     <i class="fab fa-behance"></i>&nbsp;&nbsp;&nbsp;Behance
 </a>
-<a href="https://www.youtube.net/{{site.youtube_username}}"
+<a href="https://www.youtube.com/channel/{{site.youtube_channel_id}}"
     class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold"
     target="_blank">
     <i class="fab fa-youtube"></i>&nbsp;&nbsp;&nbsp;YouTube
 </a>
-<a href="mailto:harsh98trivedi@gmail.com"
+<a href="https://www.snapchat.com/add/harsh98trivedi"
     class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold"
     target="_blank">
-    <i class="fas fa-envelope"></i>&nbsp;&nbsp;&nbsp;Email
+    <i class="fab fa-snapchat-ghost"></i>&nbsp;&nbsp;&nbsp;Snapchat
+</a>
+<a href="mailto:{{site.email}}"
+    class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold"
+    target="_blank">
+    <i class="fas fa-envelope"></i>&nbsp;&nbsp;&nbsp;Email Me
 </a>
 </div>
 </center>
