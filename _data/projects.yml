@@ -34,3 +34,7 @@
   link: https://github.com/thedevslot/WhatATheme
   image: https://github.com/thedevslot/WhatATheme/raw/master/assets/images/meta.jpg
   description: A customizable Jekyll Portfolio theme which supports blogging.
+- name: Links
+  link: https://github.com/harsh98trivedi/links
+  image: https://github.com/harsh98trivedi/links/raw/master/assets/images/links.jpg
+  description: A Beautiful Jekyll Theme For Links.
