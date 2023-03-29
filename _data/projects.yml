@@ -42,7 +42,7 @@
   link: https://github.com/harsh98trivedi/links
   image: https://github.com/harsh98trivedi/links/raw/master/assets/images/links.jpg
   description: A Beautiful Jekyll Theme For Links.
-- name: TinDog
-  link: https://github.com/harsh98trivedi/TinDog
-  image: https://github.com/harsh98trivedi/TinDog/raw/master/images/tindog.png
-  description: Fun and friendly website that invites dog lovers to join in on an exciting new way to meet other like-minded individuals and dogs in their area.
+# - name: TinDog
+#   link: https://github.com/harsh98trivedi/TinDog
+#   image: https://github.com/harsh98trivedi/TinDog/raw/master/images/tindog.png
+#   description: Fun and friendly website that invites dog lovers to join in on an exciting new way to meet other like-minded individuals and dogs in their area.
