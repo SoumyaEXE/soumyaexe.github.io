@@ -1,12 +1,14 @@
 ---
 title: A day with some boring guests
-post-image: https://i.imgur.com/Hs9WzIQ.jpg
-description: A day with some boring guests at home, the way they talk is just too much annoying!
 layout: post
+post-image: https://i.imgur.com/Hs9WzIQ.jpg
+description: A day with some boring guests at home, the way they talk is just too
+  much annoying!
 tags:
 - boring
 - guest
 - a day in my life
+- story
 ---
 
 <center><p style="font-size:1rem;padding: 0.25vmax;max-width:82.5vmax;background-color:#f2415e;text-transform: uppercase; color:#ffffff;">Before starting off with the main story, let me tell you one important thing, if you are a boring guest, then please don't read this.</p></center>
