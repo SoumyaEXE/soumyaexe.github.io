@@ -323,6 +323,9 @@ a.navbar-item.is-active {
         ol, ul, blockquote {
             display: inline-block;
         }
+        pre{
+            padding: 1.25rem;
+        }
         hr{
             background-color: grey;
         }
