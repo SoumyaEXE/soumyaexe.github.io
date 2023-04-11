@@ -158,9 +158,12 @@ a.navbar-item.is-active {
         .content {
             margin: 0.5rem;
         }
-
         .column {
-            display: grid;
+            display: flex;
+            flex-direction: column;
+            margin: auto;
+            padding: 0 1.5rem;
+            align-self: center;
 
             .image {
                 border-radius: 0.25rem;
