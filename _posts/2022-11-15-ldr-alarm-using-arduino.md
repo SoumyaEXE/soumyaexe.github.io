@@ -79,4 +79,6 @@ The LDR alarm using Arduino works as follows:
 - [Download the image to understand the circuit](https://raw.githubusercontent.com/harsh98trivedi/LDR-Buzzer-Alarm/master/LDR%20Alarm.jpg)
 - [Copy the source '.ino' file](https://raw.githubusercontent.com/harsh98trivedi/LDR-Buzzer-Alarm/master/LDR-Buzzer-Alarm.ino)
 
-###### Special thanks to [IOT Web Planet](http://iotwebplanet.com/) for powering this project. Make sure to ★ Stargaze this project on [GitHub](https://github.com/harsh98trivedi/LDR-Buzzer-Alarm){:target="_blank"}.
+---
+
+<center><h5>Special thanks to <a href="http://iotwebplanet.com" target="_blank">IOT Web Planet</a> for powering this project. Make sure to ✨ <a href="https://github.com/harsh98trivedi/LDR-Buzzer-Alarm" target="_blank">Stargaze this project on GitHub.</a></h5></center>
