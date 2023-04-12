@@ -1,17 +1,20 @@
 ---
 title: Expectations Hurt
-post-image: https://i.imgur.com/tmWLCxU.jpg
-description: Expectations Hurt, but you should not stop expecting as it helps you to troubleshoot with yourself.
 layout: post
+post-image: https://i.imgur.com/tmWLCxU.jpg
+description: Expectations Hurt, but you should not stop expecting as it helps you
+  to troubleshoot with yourself.
 tags:
 - expectaions
 - feelings
 - story
 ---
 
-<center><p style="max-width:60rem;text-align:center;background-color:#673AB7;color:#ffffff;padding:0.3vmax;font-size:1rem;text-transform:uppercase">Before starting off with the story, let me tell you that I am a Homosapien, thus I've got humanly feelings.</p></center>
+<center><p style="max-width:60rem;text-align:center;background-color:#673AB7;color:#ffffff;padding:0.3vmax;font-size:1rem;text-transform:uppercase">
+	Before starting off with the story, let me tell you that I am a Homosapien, thus I've got humanly feelings.
+	</p></center>
 
-<br>
+<hr>
 
 Hey there, lovely faces, I am going to be fiercely honest with my opinions in this post so make sure to treat this as a story with a lame plot.
 

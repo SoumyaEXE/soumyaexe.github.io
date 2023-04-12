@@ -11,9 +11,11 @@ tags:
 - story
 ---
 
-<center><p style="font-size:1rem;padding: 0.25vmax;max-width:82.5vmax;background-color:#f2415e;text-transform: uppercase; color:#ffffff;">Before starting off with the main story, let me tell you one important thing, if you are a boring guest, then please don't read this.</p></center>
+<center><p style="font-size:1rem;padding: 0.25vmax;max-width:82.5vmax;background-color:#f2415e;text-transform: uppercase; color:#ffffff;">
+	Before starting off with the main story, let me tell you one important thing, if you are a boring guest, then please don't read this.
+	</p></center>
 
-<br>
+<hr>
 
 Boring guests, they teach us many things, like how things work, how unfair life is, how to be patient, and how to deal with some boring people when they actually don't know how boring they are.
 
