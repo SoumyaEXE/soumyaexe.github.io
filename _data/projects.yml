@@ -8,7 +8,7 @@
   description: Download YouTube video thumbnails with ease. Free, Clean & Simple YouTube Thumbnail Downloader for you.
 - name: Git-Commands
   link: https://wethefoss.github.io/Git-Commands/
-  image: https://raw.githubusercontent.com/WeTheFOSS/Git-Commands/master/src/Components/images/meta.jpg
+  image: https://i.imgur.com/bwTpIeA.jpg
   description: Git Commands provides us the information about the commands which are required to operate git( a version-control system).
 - name: Instagram Photo Downloader
   link: https://harsh98trivedi.github.io/Instagram-Photo-Downloader/
@@ -42,3 +42,11 @@
   link: https://github.com/harsh98trivedi/links
   image: https://github.com/harsh98trivedi/links/raw/master/assets/images/links.jpg
   description: A Beautiful Jekyll Theme For Links.
+- name: TinDog
+  link: https://github.com/harsh98trivedi/TinDog
+  image: https://github.com/harsh98trivedi/TinDog/raw/master/images/tindog.png
+  description: Fun and friendly website that invites dog lovers to join in on an exciting new way to meet other like-minded individuals and dogs in their area.
+- name: Drum Kit
+  link: https://github.com/harsh98trivedi/Drum-Kit
+  image: https://raw.githubusercontent.com/harsh98trivedi/Drum-Kit/master/meta.jpg
+  description: The drum kit that will make you want to play all day long.
