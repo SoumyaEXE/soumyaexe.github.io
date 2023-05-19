@@ -5,7 +5,7 @@ layout: page
 
 # [**WordCamp Asia 2023**](https://asia.wordcamp.org/2023/){:target="_blank"}
 ###### **Social Media Handler** - Friday, 17 February 2023
-![WC Asia 2023](https://images.weserv.nl/?url=https://i.imgur.com/KfemXxf.png&w=1280&height=483&fit=cover&l=9&output=webp&q=63)
+![WC Asia 2023](https://i.imgur.com/KfemXxf.png)
 
 I volunteered at WordCamp Asia 2023 as a Social Media Handler. My duties included taking photographs of the event and uploading them to WordCamp Asia's Social Media Handles. I also assisted with managing the event's social media accounts, and interacted with attendees to ensure they had the best experience possible. My experience at WordCamp Asia was an invaluable one and I believe I have the skills and knowledge necessary to continue to be an effective Social Media Handler.
 
@@ -13,7 +13,7 @@ I volunteered at WordCamp Asia 2023 as a Social Media Handler. My duties include
 
 # [**Google Developers Group Kanpur**](https://gdg.community.dev/gdg-kanpur/){:target="_blank"}
 ###### **Organizer** - March 2022
-![GDG Kanpur](https://images.weserv.nl/?url=https://i.imgur.com/mv47UYz.png&w=1280&height=483&fit=cover&l=9&output=webp&q=63)
+![GDG Kanpur](https://i.imgur.com/mv47UYz.png)
 
 Organizing events as a member of the GDG Kanpur team has been a rewarding experience. As the organizer, I have had the privilege of creating impactful events that have inspired hundreds of digital creators and tech enthusiasts in the region. I have had the opportunity to collaborate with a wide range of partners, from startups to established corporate firms. 
 
@@ -30,7 +30,7 @@ Overall, my time with GDG Kanpur has been an enlightening and fulfilling experie
 
 # [**DEF CON Delhi**](https://defcon9111.org/){:target="_blank"}
 ###### **Web Developer** - August 2020
-![DC9111](https://images.weserv.nl/?url=https://i.imgur.com/VEOcSv1.png&w=1280&h=483&fit=cover&l=9&output=webp&q=63)
+![DC9111](https://i.imgur.com/VEOcSv1.png)
 
 Volunteering as the lead web developer for DefCon Delhi has been an incredibly rewarding experience. I have had the opportunity to use my knowledge and skills in coding and web development to help create and maintain the website for the event. My responsibilities include designing and developing the website, programming and troubleshooting, testing and debugging, maintaining the content, and providing technical support.
 
@@ -42,14 +42,14 @@ I am proud to have been part of such an amazing event and to have been able to c
 
 # [**WordCamp Nagpur 2019**](https://nagpur.wordcamp.org/2019/){:target="_blank"}
 ###### **Social Media Handler** - Sunday, August 11th, 2019
-![WordCamp Nagpur 2019](https://images.weserv.nl/?url=https://i.imgur.com/f3w5YSj.png&w=1280&height=483&fit=cover&l=9&output=webp&q=63)
+![WordCamp Nagpur 2019](https://i.imgur.com/f3w5YSj.png)
 
 I volunteered at WordCamp Nagpur 2019 as a Social Media Handler, where I was responsible for clicking photos and uploading them to the event's social media accounts. I had the opportunity to engage with the attendees and get a glimpse into the various aspects of the event. During the event, I was able to capture the energy and enthusiasm of the attendees as they discussed and shared their knowledge and experiences. I also had the opportunity to work with the event organizers to ensure that the event was a success. My experience at WordCamp Nagpur was invaluable and I'm grateful for the opportunity to have been a part of it.
 
 ---
 # [**WordCamp Kanpur 2018**](https://kanpur.wordcamp.org/2018/){:target="_blank"}
 ###### **Sponsor Wrangler and Graphic Designer** - Sunday, August 12th, 2018
-![WordCamp Kanpur 2018](https://images.weserv.nl/?url=https://kanpur.wordcamp.org/2018/files/2018/06/WordCamp-Kanpur-2018.jpg&w=1280&height=483&fit=cover&l=9&output=webp&q=63)
+![WordCamp Kanpur 2018](https://kanpur.wordcamp.org/2018/files/2018/06/WordCamp-Kanpur-2018.jpg)
 
 Volunteering at WordCamp Kanpur 2018 as a Sponsor Wrangler and Graphic Designer was a unique and rewarding experience. In my role as a Sponsor Wrangler, I was responsible for managing the experience of the event sponsors, ensuring that their needs were met, and coordinating their presence at the event. This involved communicating with sponsors prior to the event, managing their on-site experience, and resolving any issues or concerns they had.
 

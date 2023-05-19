@@ -44,8 +44,8 @@
   description: A Beautiful Jekyll Theme For Links.
 - name: TinDog
   link: https://github.com/harsh98trivedi/TinDog
-  image: https://github.com/harsh98trivedi/TinDog/raw/master/images/tindog.png
-  description: Fun and friendly website that invites dog lovers to join in on an exciting new way to meet other like-minded individuals and dogs in their area.
+  image: https://raw.githubusercontent.com/harsh98trivedi/TinDog/master/images/tindog.png
+  description: It is a fun and friendly website that invites dog lovers to join in on an exciting new way to meet other like-minded individuals and dogs in their area.
 - name: Drum Kit
   link: https://github.com/harsh98trivedi/Drum-Kit
   image: https://raw.githubusercontent.com/harsh98trivedi/Drum-Kit/master/meta.jpg
