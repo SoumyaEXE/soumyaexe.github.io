@@ -41,7 +41,7 @@
 - name: Links
   link: https://github.com/harsh98trivedi/links
   image: https://github.com/harsh98trivedi/links/raw/master/assets/images/links.jpg
-  description: A Beautiful Jekyll Theme For Links.
+  description: A Beautiful Jekyll Theme For Links. The perfect alternative for Linktree! Links is a Jekyll theme designed for developers and creators alike. With its beautiful design, you can create a professional-looking link landing page within minutes. You can also add it to your Instagram bio or Twitter bio to provide easy access to your various web pages.
 - name: TinDog
   link: https://github.com/harsh98trivedi/TinDog
   image: https://raw.githubusercontent.com/harsh98trivedi/TinDog/master/images/tindog.png
