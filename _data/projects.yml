@@ -50,3 +50,7 @@
   link: https://github.com/harsh98trivedi/Drum-Kit
   image: https://raw.githubusercontent.com/harsh98trivedi/Drum-Kit/master/meta.jpg
   description: The drum kit that will make you want to play all day long.
+- name: GetAMeta
+  link: https://github.com/harsh98trivedi/GetAMeta
+  image: https://raw.githubusercontent.com/harsh98trivedi/GetAMeta/master/meta.png
+  description: Web-based meta tag generator built with HTML, CSS, and JavaScript. It provides a user-friendly interface to generate meta tags for optimizing website metadata. The generated meta tags enhance search engine visibility, social media sharing, and overall website performance.
