@@ -3,19 +3,19 @@
   link: https://www.techetarian.com
   description: Technology Simplified. A blog about all the tech tips, tricks, tweaks and more.
 - name: YouTube Thumbnail Downloader
-  link: https://harsh98trivedi.github.io/YouTube-Thumbnail-Downloader
+  link: https://github.com/harsh98trivedi/YouTube-Thumbnail-Downloader
   image: https://raw.github.com/harsh98trivedi/YouTube-Thumbnail-Downloader/master/images/meta.jpg
   description: Download YouTube video thumbnails with ease. Free, Clean & Simple YouTube Thumbnail Downloader for you.
 - name: Git-Commands
-  link: https://wethefoss.github.io/Git-Commands/
+  link: https://github.com/WeTheFOSS/Git-Commands
   image: https://i.imgur.com/bwTpIeA.jpg
   description: Git Commands provides us the information about the commands which are required to operate git( a version-control system).
 - name: Instagram Photo Downloader
-  link: https://harsh98trivedi.github.io/Instagram-Photo-Downloader/
+  link: https://github.com/harsh98trivedi/Instagram-Photo-Downloader
   image: https://raw.github.com/harsh98trivedi/Instagram-Photo-Downloader/master/images/meta.jpg
   description: Download Instagram photos with ease. Free, Clean & Simple Instagram Photo Downloader for you.
 - name: Simple JavaScript Calculator
-  link: https://harsh98trivedi.github.io/Simple-JavaScript-Calculator/
+  link: https://github.com/harsh98trivedi/Simple-JavaScript-Calculator
   image: https://raw.github.com/harsh98trivedi/Simple-JavaScript-Calculator/master/meta.jpg
   description: This is a simple JavaScript Calculator that works using your keyboard keys too.
 - name: LDR ALarm
