@@ -62,3 +62,7 @@
   link: https://github.com/harsh98trivedi/Voting-Eligibility-Checker
   image: https://raw.githubusercontent.com/harsh98trivedi/Voting-Eligibility-Checker/master/meta.jpg
   description: The Voting Eligibility Checker is a web application that allows users to check their eligibility to vote based on their age. It provides a simple and user-friendly interface where users can enter their age and receive an immediate response regarding their eligibility.
+- name: Currency Converter
+  link: https://github.com/harsh98trivedi/Currency-Converter/
+  image: https://raw.githubusercontent.com/harsh98trivedi/Currency-Converter/master/meta.jpg
+  description: The Currency Converter is a web application that allows users to convert amounts from one currency to another using real-time exchange rates. This project provides a simple and user-friendly interface for performing currency conversions.
