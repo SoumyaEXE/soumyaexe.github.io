@@ -54,3 +54,11 @@
   link: https://github.com/harsh98trivedi/GetAMeta
   image: https://raw.githubusercontent.com/harsh98trivedi/GetAMeta/master/meta.png
   description: Web-based meta tag generator built with HTML, CSS, and JavaScript. It provides a user-friendly interface to generate meta tags for optimizing website metadata. The generated meta tags enhance search engine visibility, social media sharing, and overall website performance.
+- name: Multiplication Table Generator
+  link: https://github.com/harsh98trivedi/Multiplication-Table-Generator
+  image: https://raw.githubusercontent.com/harsh98trivedi/Multiplication-Table-Generator/master/meta.jpg
+  description: The Multiplication Table Generator is a user-friendly web application that generates multiplication tables based on a user's chosen number. With a simple interface, users input a number and instantly see a multiplication table from 1 to 10. It's a convenient tool for students, teachers, or anyone looking to practice multiplication concepts.
+- name: Voting Eligibility Checker
+  link: https://github.com/harsh98trivedi/Voting-Eligibility-Checker
+  image: https://raw.githubusercontent.com/harsh98trivedi/Voting-Eligibility-Checker/master/meta.jpg
+  description: The Voting Eligibility Checker is a web application that allows users to check their eligibility to vote based on their age. It provides a simple and user-friendly interface where users can enter their age and receive an immediate response regarding their eligibility.
