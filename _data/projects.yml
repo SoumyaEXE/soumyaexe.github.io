@@ -66,3 +66,7 @@
   link: https://github.com/harsh98trivedi/Currency-Converter/
   image: https://raw.githubusercontent.com/harsh98trivedi/Currency-Converter/master/meta.jpg
   description: The Currency Converter is a web application that allows users to convert amounts from one currency to another using real-time exchange rates. This project provides a simple and user-friendly interface for performing currency conversions.
+- name: EMI Calculator
+  link: https://github.com/harsh98trivedi/EMI-Calculator
+  image: https://github.com/harsh98trivedi/EMI-Calculator/raw/master/meta.jpg
+  description: The EMI Calculator app is a powerful tool designed to help you calculate the Equated Monthly Installment (EMI) for your loans. Whether you have a personal loan, a home loan, or any other type of loan, our app provides you with a simple and convenient way to determine your monthly repayment amount.
