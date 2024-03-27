@@ -1,7 +1,7 @@
 ---
 title: AI In Business: How It Can Help You Thrive
-layout: post
-post-image: "https://i.ibb.co/Wk9Z2Gy/images-2024-03-27-T120446-569.jpg"
+date: 2024-03-27 layout: post
+post-image: "[https://i.ibb.co/Wk9Z2Gy/images-2024-03-27-T120446-569.jpg](https://ibb.co/LxwmZYt)"
 description: Unleash the power of Artificial Intelligence (AI) to transform your business operations, decision-making, and customer experiences.
 tags:
 - business
