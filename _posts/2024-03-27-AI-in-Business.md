@@ -1,7 +1,7 @@
 ---
 title: AI In Business: How It Can Help You Thrive
 date: 2024-03-27 layout: post
-post-image: "(https://raw.githubusercontent.com/SoumyaEXE/soumyaexe.github.io/master/assets/images/images - 2024-03-27T120446.569.jpeg"
+post-image: "https://raw.githubusercontent.com/SoumyaEXE/soumyaexe.github.io/master/assets/images/images - 2024-03-27T120446.569.jpeg"
 description: Unleash the power of Artificial Intelligence (AI) to transform your business operations, decision-making, and customer experiences.
 tags:
 - business
