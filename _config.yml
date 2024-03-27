@@ -9,11 +9,11 @@ baseurl:
 # Title of the Site
 title: Soumyadeep Dey
 # Description of the Site
-description: A Tech lover Inspired by Imagination
+description: A Tech Enthusiast & Coder
 # URL of Image of the Site
 site-image: https://raw.githubusercontent.com/soumyaexe/soumyaexe.github.io/master/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Harsh Trivedi, A Tech Lover, Inspired by Imagination, Techetarian, DezineWrath, Kanpur, Design, Harsh
+site-keywords: Soumyadeep Dey, A Tech Lover, Inspired by Imagination, @ISoumyadeepDey, Tech ISoumyadeepDey Twitter, X, Coder, Mobile, Editing 
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -22,31 +22,30 @@ heroimage: https://source.unsplash.com/random/720x405?space
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: harshtrivedi@duck.com
-facebook_username: harsh98trivedi
-twitter_username: harsh98trivedi
-instagram_username: harsh98trivedi
-linkedin_username: harsh98trivedi
-github_username:  harsh98trivedi
+email: soulsoumya1234@gmail.com
+facebook_username: ISoumyadeepDey 
+twitter_username: ISoumyadeepDey 
+instagram_username: s0umy4_xD
+linkedin_username: ISoumyadeepDey 
+github_username:  SoumyaEXE
 youtube_channel_id: UCS3zvA_2r1iGT7MB3NVCGAw
-reddit_username: harshtrivedi
-behance_username: harsh98trivedi
-dribbble_username: harsh98trivedi
+reddit_username: SoumyadeepDey 
+behance_username: ISoumyadeepDey 
+dribbble_username: ISoumyadeepDey
 spotify_username:
 
 # Google Analytics
-google-analytics: UA-70447982-3
+google-analytics: 
 
 # Disqus
-disqus-shortname: harshtrivedi
+disqus-shortname: SoumyadeepDey 
 
 # Name of the Author
 author-name: Soumyadeep Dey
 # URL for the Image of the Author
 author-image: https://www.github.com/Soumyaexe.png
 # 60 Words About the Author
-author-about: Howdy, I'm Harsh Trivedi. I'm passionate Tech Lover Inspired by Imagination. Apart from being an ardent tech enthusiast, I love spending time on design tools and exploring open-source projects.  I enjoy tweaking and tinkering with the gadgets I own, and apart from all this, I enjoy spending my time watching content from some of my favorite creators.  Playing with new software and apps acts like dopamine for me.
-
+author-about: Howdy, I'm Soumyadeep Dey. I'm passionate Tech Lover, I Love Doing Coding!! Apart from being an ardent tech enthusiast, I love spending time on learning new tech things and exploring open-source projects.  I enjoy tweaking and tinkering with the gadgets I own, and apart from all this, I enjoy spending my time watching content from some of my favorite creators.  Playing with new software and apps acts like morphine/LSD for me. 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://linksoumya.vercel.app
 
