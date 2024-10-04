@@ -2,8 +2,7 @@
 title: "AI In Business: How It Can Help You Thrive"
 date: 2024-03-27
 layout: post
-post-image: "soumyaexe.github.io/assets/images
-/ai.jpg"
+post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
 description: "Unleash the power of Artificial Intelligence (AI) to transform your business operations, decision-making, and customer experiences."
 tags:
   - business
